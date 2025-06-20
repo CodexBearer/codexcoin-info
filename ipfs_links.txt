@@ -1,0 +1,2 @@
+# IPFS links for scrolls, contract metadata, Genesis PDF
+# Will be auto-filled after full deployment
